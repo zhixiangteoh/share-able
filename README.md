@@ -1,6 +1,6 @@
-# share-able
+# shareable-js 
 
-share-able is a lightweight library to add sharing icons to web-pages.
+shareable-js is a lightweight library to add sharing icons to web-pages.
 
 ## Getting Started
 
