@@ -7,7 +7,7 @@ share-able is a lightweight library to add sharing icons to web-pages.
 First have `npm` installed. Then, in a terminal window at the root of your project, run
 
 ```sh
-> npm install share-able
+> npm install shareable-js
 ```
 
 
