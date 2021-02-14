@@ -1,0 +1,19 @@
+{
+  "name": "share-able",
+  "version": "1.0.0",
+  "description": "Lightweight shareable icons for all purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhixiangteoh/share-able.git"
+  },
+  "author": "Zhixiang Teoh <zhixiangteoh@gmail.com> (https://teohzhixiang.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhixiangteoh/share-able/issues"
+  },
+  "homepage": "https://github.com/zhixiangteoh/share-able#readme"
+}
